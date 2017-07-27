@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView style="@style/match_match" android:scrollbars="none"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/match_wrap" android:padding="10dp"
+        android:orientation="vertical">
+        <TextView android:id="@+id/tv_year" style="@style/tv_luck_item"
+            android:text="全年运势" />
+
+    </LinearLayout>
+</ScrollView>

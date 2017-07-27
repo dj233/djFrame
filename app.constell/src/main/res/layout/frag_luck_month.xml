@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView style="@style/match_match" android:scrollbars="none"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/match_wrap" android:padding="10dp"
+        android:orientation="vertical">
+        <TextView android:id="@+id/tv_constell" style="@style/tv_luck_item"
+            android:text="我的星座 ：双鱼座" />
+
+        <TextView android:id="@+id/tv_luck_month" style="@style/tv_luck_item"
+            android:text="本月运势 ：上半月，和另一半一起吃喝玩乐，爱情甜蜜。下半月，积极投身工作，大气和热情感染了身边的同事，领导力、创造力倍增，备受瞩目。金星进入家庭宫，日常生活状态轻松惬意。\r\n" />
+
+        <TextView android:id="@+id/tv_health_month" style="@style/tv_luck_item"
+            android:text="健康运势 ：身体健康，精力充沛。" />
+
+        <TextView android:id="@+id/tv_love_month" style="@style/tv_luck_item"
+            android:text="爱情运势 ：有伴的人，爱情甜蜜，另一半对你温柔体贴，过得非常开心。单身的人，娱乐活动也不少，外出游玩一样是别人眼中的焦点。\r\n" />
+
+        <TextView android:id="@+id/tv_money_week" style="@style/tv_luck_item"
+            android:text="财富运势 ：在不动产投资上有好运，抓住机会哦。\r\n" />
+
+        <TextView android:id="@+id/tv_work_week" style="@style/tv_luck_item"
+            android:text="事业运势 ：工作上与以往相比有了更大的热情和更快的行动力，得到了众人的支持和帮助。\r\n" />
+    </LinearLayout>
+</ScrollView>

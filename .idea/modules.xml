@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/app.constell/app.constell.iml" filepath="$PROJECT_DIR$/app.constell/app.constell.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo.emptylayout/demo.emptylayout.iml" filepath="$PROJECT_DIR$/demo.emptylayout/demo.emptylayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.loading/demo.loading.iml" filepath="$PROJECT_DIR$/demo.loading/demo.loading.iml" />
       <module fileurl="file://$PROJECT_DIR$/djFrame.iml" filepath="$PROJECT_DIR$/djFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.data/lib.data.iml" filepath="$PROJECT_DIR$/lib.data/lib.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.ui/lib.ui.iml" filepath="$PROJECT_DIR$/lib.ui/lib.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib.ui.empty/lib.ui.empty.iml" filepath="$PROJECT_DIR$/lib.ui.empty/lib.ui.empty.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib.ui.loading/lib.ui.loading.iml" filepath="$PROJECT_DIR$/lib.ui.loading/lib.ui.loading.iml" />
     </modules>

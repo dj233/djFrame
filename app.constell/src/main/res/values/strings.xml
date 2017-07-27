@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">星座运势</string>
+    <string name="action_settings">设置</string>
+
+    <string name="my_constell">我的星座 : $1%s</string>
+    <string name="luck_info">%1$s : %2$s</string>
+    <string name="daily_ratio">%1$s指数 : %2$s</string>
+    <string name="luck_style">%1$s运势 : %2$s</string>
+</resources>

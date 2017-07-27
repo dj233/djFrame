@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView style="@style/match_match" android:scrollbars="none"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/match_wrap" android:padding="10dp"
+        android:orientation="vertical">
+        <TextView android:id="@+id/tv_constell" style="@style/tv_luck_item"
+            android:text="我的星座 ：双鱼座" />
+
+        <TextView android:id="@+id/tv_luck_date" style="@style/tv_luck_item"
+            android:text="运势周期 ：2017年07月27日" />
+
+        <TextView android:id="@+id/tv_luck_friend" style="@style/tv_luck_item"
+            android:text="幸运星座 ：处女座" />
+
+        <TextView android:id="@+id/tv_luck_color" style="@style/tv_luck_item"
+            android:text="幸运颜色 ：蓝色" />
+
+        <TextView android:id="@+id/tv_luck_summary" style="@style/tv_luck_item"
+            android:text="今日运势 ：今天容易为了工作四处跑动。学习运势提升，适合解决以往卡壳的难题。部分出门在外的双鱼容易有意外的花销。" />
+
+        <TextView android:id="@+id/tv_all_ratio" style="@style/tv_luck_item"
+            android:text="幸运指数 ：40%" />
+
+        <TextView android:id="@+id/tv_health_ratio" style="@style/tv_luck_item"
+            android:text="健康指数 ：40%" />
+
+        <TextView android:id="@+id/tv_love_ratio" style="@style/tv_luck_item"
+            android:text="爱情指数 ：40%" />
+
+        <TextView android:id="@+id/tv_money_ratio" style="@style/tv_luck_item"
+            android:text="财富指数 ：40%" />
+
+        <TextView android:id="@+id/tv_work_ratio" style="@style/tv_luck_item"
+            android:text="事业指数 ：40%" />
+    </LinearLayout>
+</ScrollView>

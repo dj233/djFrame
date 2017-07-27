@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView style="@style/match_match" android:scrollbars="none"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/match_wrap" android:padding="10dp"
+        android:orientation="vertical">
+        <TextView android:id="@+id/tv_constell" style="@style/tv_luck_item"
+            android:text="我的星座 ：双鱼座" />
+
+        <TextView android:id="@+id/tv_luck_date" style="@style/tv_luck_item"
+            android:text="运势周期 ：2017年07月24日-2017年07月30日" />
+
+        <TextView android:id="@+id/tv_health_week" style="@style/tv_luck_item"
+            android:text="健康：近期双鱼人健康平稳。 作者：星言，forseiya" />
+
+        <TextView android:id="@+id/tv_job_week" style="@style/tv_luck_item"
+            android:text="求职：本周双鱼人求职近期容易因为烂工作影响到自己的生活，得不偿失，建议暂时不要换工作。" />
+
+        <TextView android:id="@+id/tv_love_week" style="@style/tv_luck_item"
+            android:text="恋情，但可能会昙花一现，有伴的双鱼人另一半会在职场中大放光彩。" />
+
+        <TextView android:id="@+id/tv_money_week" style="@style/tv_luck_item"
+            android:text="财运：本周双鱼人财会从工作中获得不少的收入，摆脱钱荒的日子。 " />
+
+        <TextView android:id="@+id/tv_work_week" style="@style/tv_luck_item"
+            android:text="工作：本周双鱼人工作会开始成为众人眼中的no1，目标和决心都会为你带来不错的结果。" />
+    </LinearLayout>
+</ScrollView>

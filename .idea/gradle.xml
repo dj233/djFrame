@@ -8,7 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app.constell" />
             <option value="$PROJECT_DIR$/demo.emptylayout" />
+            <option value="$PROJECT_DIR$/demo.loading" />
+            <option value="$PROJECT_DIR$/lib.data" />
+            <option value="$PROJECT_DIR$/lib.ui" />
             <option value="$PROJECT_DIR$/lib.ui.empty" />
             <option value="$PROJECT_DIR$/lib.ui.loading" />
           </set>
