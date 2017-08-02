@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" style="@style/match_wrap" android:padding="10dp"
+    android:background="@drawable/bg_item_divider">
+
+    <TextView android:id="@+id/item_news_title" style="@style/item_h2"/>
+
+    <ImageView android:id="@+id/item_news_img" style="@style/item_img_middle_360x180" />
+
+    <LinearLayout style="@style/match_wrap" android:orientation="horizontal">
+        <TextView android:id="@+id/item_news_date" style="@style/item_h2"/>
+        <TextView android:id="@+id/item_news_category" style="@style/item_h2"/>
+        <TextView android:id="@+id/item_news_author" style="@style/item_h2"/>
+    </LinearLayout>
+
+</LinearLayout>

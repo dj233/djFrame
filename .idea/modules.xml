@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app.constell/app.constell.iml" filepath="$PROJECT_DIR$/app.constell/app.constell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.news/app.news.iml" filepath="$PROJECT_DIR$/app.news/app.news.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo.emptylayout/demo.emptylayout.iml" filepath="$PROJECT_DIR$/demo.emptylayout/demo.emptylayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo.loading/demo.loading.iml" filepath="$PROJECT_DIR$/demo.loading/demo.loading.iml" />
       <module fileurl="file://$PROJECT_DIR$/djFrame.iml" filepath="$PROJECT_DIR$/djFrame.iml" />
